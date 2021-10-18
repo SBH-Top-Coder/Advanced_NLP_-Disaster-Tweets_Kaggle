@@ -1,6 +1,6 @@
-# Advanced_NLP_-Disaster-Tweets_Kaggle
+# Advanced_NLP_-Disaster-Tweets_Kaggle ( Bronze Medal ) 
 
-A notebook containing all the advanced NLP techniques for text classification for the Kaggle competition : 
+A Kaggle notebook containing all the advanced NLP techniques for text classification for the Kaggle competition : 
 
 - Natural Language Processing with Disaster Tweets
 
